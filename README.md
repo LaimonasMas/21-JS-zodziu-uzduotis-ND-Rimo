@@ -1,18 +1,15 @@
 # Teksto analizė
 
-Projektas skirtas analizuoti duota teksta norint issiaiskinti kaip jis sudarytas: paragrafai, sakiniai, zodziai, raides, tekstiniai simboliai, tikrieji daiktavardziai, ju kiekis ir t.t..
+Projektas skirtas analizuoti duotą tekstą norint išsiaiškinti kaip jis sudarytas: paragrafai, sakiniai, žodžiai, raidės, tekstiniai simboliai, tikrieji daiktavardžiai, jų kiekis ir t.t..
 
 # Galimi metodai
-- paragraphCount() - metodas, skirtas skaiciuoti paragrafu kiekiui tekste;
-- sentenceCount() - metodas, skirtas skaiciuoti sakiniu kiekiui tekste;
-- wordCount() - metodas, skirtas skaiciuoti zodziu kiekiui tekste;
-- letterCount() - metodas, skirtas skaiciuoti abeceles raidziu kiekiui tekste;
-- numberCount() - metodas, skirtas skaiciuoti skaiciu kiekiui tekste;
-- digitsCount() - metodas, skirtas skaiciuoti skaitmenukiekiui tekste;
-- symbolCount() - metodas, skirtas skaiciuoti matomu simboliu kieki tekste (isskyrus tarpa, enteri ir Tab);
+- paragraphCount() - metodas, skirtas skaičiuoti paragrafų kiekiui tekste;
+- sentenceCount() - metodas, skirtas skaičiuoti sakinių kiekiui tekste;
+- wordCount() - metodas, skirtas skaičiuoti žodžių kiekiui tekste;
+- letterCount() - metodas, skirtas skaičiuoti abėcėlės raidžių kiekiui tekste;
+- numberCount() - metodas, skirtas skaičiuoti skaičių kiekiui tekste;
+- digitsCount() - metodas, skirtas skaičiuoti skaitmenų kiekiui tekste;
+- symbolCount() - metodas, skirtas skaičiuoti matomų simbolių kiekį tekste (išskyrus tarpą, enterį ir Tab);
 
-## Placiau apie metodus
-
-###
 
 
